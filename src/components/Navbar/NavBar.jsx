@@ -44,16 +44,16 @@ const Navbar = () => {
                         <Link to="home" smooth={true} offset={0} duration={400} className='text-white text-lg hover:bg-[#6fc9db] hover:p-1 hover:text-black hover:font-semibold hover:rounded hover:text-bold duration-500 cursor-pointer hover:text-xl'>Home</Link>
                     </li>
                     <li>
-                        <Link to="aboutMe" smooth={true} offset={0} duration={400} className='text-white text-lg hover:bg-[#6fc9db] hover:p-1 hover:text-black hover:rounded hover:font-semibold duration-500 cursor-pointer hover:text-xl'>About-Me</Link>
+                        <Link to="aboutMe" smooth={true} offset={0} duration={400} className='text-white text-lg hover:bg-[#6fc9db] hover:p-1 hover:text-black hover:rounded hover:font-semibold duration-500 cursor-pointer hover:text-xl'>About me</Link>
                     </li>
                     <li>
-                        <Link to="myService" smooth={true} offset={0} duration={400} className='text-white text-lg hover:bg-[#6fc9db] hover:p-1 hover:text-black hover:rounded hover:font-semibold duration-500 cursor-pointer hover:text-xl'>My Service's</Link>
+                        <Link to="myExperience" smooth={true} offset={0} duration={400} className='text-white text-lg hover:bg-[#6fc9db] hover:p-1 hover:text-black hover:rounded hover:font-semibold duration-500 cursor-pointer hover:text-xl'>My experience</Link>
                     </li>
                     <li>
                         <Link to="mySkills" smooth={true} offset={0} duration={400} className='text-white text-lg hover:bg-[#6fc9db] hover:p-1 hover:text-black hover:rounded hover:text-bold duration-500 cursor-pointer hover:text-xl'>My Skill's</Link>
                     </li>
                     <li>
-                        <Link to="myProject" smooth={true} offset={0} duration={400} className='text-white text-lg hover:bg-[#6fc9db] hover:p-1 hover:text-black hover:rounded hover:text-bold duration-500 cursor-pointer hover:text-xl'>My Project's</Link>
+                        <Link to="myProjects" smooth={true} offset={0} duration={400} className='text-white text-lg hover:bg-[#6fc9db] hover:p-1 hover:text-black hover:rounded hover:text-bold duration-500 cursor-pointer hover:text-xl'>My Project's</Link>
                     </li>
                     <li>
                         <Link to="ContactMe" smooth={true} offset={0} duration={400} className='text-white text-lg hover:bg-[#6fc9db] hover:p-1 hover:text-black hover:rounded hover:text-bold duration-500 cursor-pointer hover:text-xl'>Contact Me</Link>
@@ -61,16 +61,16 @@ const Navbar = () => {
                 </nav>
             </ul>
             <div className='flex md:justify-center md:space-x-5 space-x-3 md:mt-10 mt-3'>
-                <a href="https://www.facebook.com/HridoyShillrohan/">
+                <a href="https://www.facebook.com/profile.php?id=100077997187614">
                     <FaFacebook className='w-6 h-6 text-rose-100 hover:text-[#CD5DF3] hover:w-7 hover:h-7 duration-200'></FaFacebook>
                 </a>
-                <a href="https://github.com/Hridoy-shill">
+                <a href="https://github.com/swapno92">
                     <FaGithub className='w-6 h-6 text-rose-100 hover:text-[#CD5DF3] hover:w-7 hover:h-7 duration-200'></FaGithub>
                 </a>
-                <a href="https://www.linkedin.com/in/hridoy-shill-453a0422b/">
+                <a href="https://linkedin.com/in/swapno-dey-9724082a4">
                     <FaLinkedin className='w-6 h-6 text-rose-100 hover:text-[#CD5DF3] hover:w-7 hover:h-7 duration-200'></FaLinkedin>
                 </a>
-                <a href="/">
+                <a href="https://twitter.com/Swapno92">
                     <FaTwitter className='w-6 h-6 text-rose-100 hover:text-[#CD5DF3] hover:w-7 hover:h-7 duration-200'></FaTwitter>
                 </a>
             </div>

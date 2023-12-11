@@ -9,12 +9,11 @@ import {
 import HomePage from './pages/HomePage';
 import Home from './components/Home/Home';
 import AboutMe from './components/AboutMe/AboutMe';
-import MyServices from './components/MyServices/MyServices';
-// import Home from './Component\'s/Home/Home';
-// import AboutMe from './Component\'s/AboutMe/AboutMe';
-// import Contact from './Component\'s/ContactMe/Contact';
-// import MyServices from './Component\'s/MyService\'s/MyServices';
-// import MySkills from './Component\'s/MySkills/MySkills';
+import MyExperience from './components/MyExperience/MyExperience';
+import MySkils from './components/MySkils/MySkils';
+import MyProjects from './components/MyProjects/MyProjects';
+import Contact from './components/Contact/Contact';
+
 
 const router = createBrowserRouter([
   {
@@ -30,17 +29,21 @@ const router = createBrowserRouter([
         element: <AboutMe></AboutMe>
       },
       {
-        path: '/myService',
-        element: <MyServices></MyServices>
+        path: '/myExperience',
+        element: <MyExperience></MyExperience>
       },
-    //   {
-    //     path: '/mySkills',
-    //     element: <MySkills></MySkills>
-    //   },
-    //   {
-    //     path: '/contactMe',
-    //     element: <Contact></Contact>
-    //   }
+      {
+        path: '/mySkills',
+        element: <MySkils></MySkils>
+      },
+      {
+        path: '/myProjects',
+        element: <MyProjects></MyProjects>
+      },
+      {
+        path: '/contactMe',
+        element: <Contact></Contact>
+      }
     ]
   },
 ]);

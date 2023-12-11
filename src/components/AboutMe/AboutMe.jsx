@@ -17,9 +17,9 @@ const AboutMe = () => {
                     <p className='mt-5 text-justify text-[#a4a2a2] font-semibold'>I have a passion for working with Node.js, MongoDB, and modern Javascript libraries and frameworks like React.js . With a solid foundation in front-end and back-end technologies, I specialize in building dynamic and responsive web applications.</p>
                 </div>
                 <div className='text-white md:w-[35%] border-l-4 border-[#CD5DF3] p-2 space-y-4'>
-                    <p className='text-xl text-[#CD5DF3] font-semibold border-b-2 border-b-gray-500 py-2'>Name: <span className='text-white text-lg'>Hridoy Shill</span></p>
-                    <p className='text-xl text-[#CD5DF3] font-semibold border-b-2 border-b-gray-500 py-2'>Email: <span className='text-white text-lg'>hridoyshill773jb@gmail.com</span></p>
-                    <p className='text-xl text-[#CD5DF3] font-semibold border-b-2 border-b-gray-500 py-2'>Age: <span className='text-white text-lg'>22</span></p>
+                    <p className='text-xl text-[#CD5DF3] font-semibold border-b-2 border-b-gray-500 py-2'>Email: <span className='text-white text-lg'>swapnoprograming92@gmail.com</span></p>
+                    <p className='text-xl text-[#CD5DF3] font-semibold border-b-2 border-b-gray-500 py-2'>Age: <span className='text-white text-lg'>21</span></p>
+                    <p className='text-xl text-[#CD5DF3] font-semibold border-b-2 border-b-gray-500 py-2'>Study: <span className='text-white text-lg'>Diploma in Computer Engineering at Chittagong Polytechnic Institute</span></p>
                     <p className='text-xl text-[#CD5DF3] font-semibold border-b-2 border-b-gray-500 py-2'>From: <span className='text-white text-lg'>Chittagong, Bangladesh</span></p>
                 </div>
             </div>
