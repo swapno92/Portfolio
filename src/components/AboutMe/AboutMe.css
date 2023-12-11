@@ -1,0 +1,16 @@
+.about-bg{
+    background-image: linear-gradient(to bottom, rgb(31, 30, 32), rgba(6, 6, 6, 0.8)) ,url('../../assets/about_me.jpg');
+    background-size: contain;
+}
+
+@media only screen and (max-width: 450px) {
+    .about-bg{
+        background-image: linear-gradient(to bottom, rgb(17, 16, 16), rgba(0, 0, 0, 0.5)) ,url('../../assets/about_me.jpg');
+        background-size: contain;
+    }
+  }
+
+.line{
+color:yellow ;
+}
+  

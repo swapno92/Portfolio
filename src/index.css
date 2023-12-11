@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.kalo{
+    border: 1px solid black;
+}
+.sada{
+    border: 1px solid white;
+}
+.lal{
+    border:  1px solid red;
+}

@@ -1,0 +1,14 @@
+.bg-Img{
+    background-image: linear-gradient(to bottom, rgb(55, 54, 56), rgba(29, 30, 30, 0.5)) ,url('../../assets/banner2.PNG');
+    background-size: contain;
+}
+
+@media only screen and (max-width: 450px) {
+    .bg-Img{
+        background-image: linear-gradient(to bottom, rgb(17, 16, 16), rgba(0, 0, 0, 0.5)) ,url('../../assets/banner2.PNG');
+        background-size: contain;
+    }
+  }
+
+
+  
