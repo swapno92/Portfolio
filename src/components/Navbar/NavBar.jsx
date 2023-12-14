@@ -1,7 +1,7 @@
 // import React, { useState } from 'react';
 import { FaBars, FaFacebook, FaGithub, FaLinkedin, FaRegTimesCircle, FaTwitter } from "react-icons/fa";
 import { Link } from 'react-scroll'
-import img from '../../assets/remove.png'
+import img from '../../assets/author.png'
 import { useState } from "react";
 import './navbar.css'
 
@@ -9,13 +9,13 @@ const Navbar = () => {
     const [isMenuOpen, setIsMenuOpen] = useState(false);
 
     return (
-        <div className='p-3 md:p-4 md:sticky md:top-0 '>
+        <div data-aos="fade-right"  className='p-3 md:p-4 md:sticky md:top-0 '>
             <div className='flex justify-between'>
-                <div className='md:mx-auto'>
-                    <div className=" w-full  rounded-full">
-                        <img className=' bg-white rounded-full h-[190px] w-full auto ' src={img} title='Hridoy shill' />
+                <div className='md:mx-auto '>
+                    <div className="  ">
+                        <img className='   md:h-[210px] h-[220px] md:w-[300px] w-[250px]' src={img} title='Swapno Dey' />
                     </div>
-                    <p className='text-[#CD5DF3] font-bold md:text-center text-2xl md:text-3xl mt-2'>Swapno Dey</p>
+                    <p className='text-[#CD5DF3] font-bold md:text-center text-2xl md:text-3xl '>Swapno Dey</p>
                 </div>
                 <div onClick={() => setIsMenuOpen(!isMenuOpen)} className='md:hidden'>
                     <span className='text-white'>

@@ -11,7 +11,7 @@ const HomePage = () => {
     return (
         <div className='md:flex w-[100%]'>
             <div className='bg-[#070A29] md:w-[20%]'>
-               <Navbar></Navbar>
+               <Navbar ></Navbar>
             </div>
             <div className='md:col-span-3 md:w-[80%]'>
                 <Outlet></Outlet>

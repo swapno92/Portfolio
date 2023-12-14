@@ -15,9 +15,9 @@ const MyProjects = () => {
                 <h2 className='md:text-9xl text-5xl text-gray-500 text-opacity-20 font-bold md:pt-10 pt-5 md:tracking-wide text-center'> My Projects </h2>
                 <p className='text-center text-[#CD5DF3] md:text-4xl text-xl font-bold md:-mt-20 -mt-9 border-b-4 pb-3 border-[#CD5DF3] pt-[110px] font-serif'>My Projects</p>
             </div> */}
-            <div className='flex-col md:px-32 px-5'>
+            <div data-aos="zoom-in-up" className='flex-col md:px-32 px-5'>
                 <h2 className='md:text-9xl text-5xl text-gray-500 text-opacity-20 font-bold md:pt-3 pt-5 md:tracking-wide text-center'>PROJECT'S</h2>
-                <p className='text-center text-[#CD5DF3] md:text-4xl text-xl font-bold md:-mt-20 -mt-9 border-b-4 pb-3 border-[#CD5DF3]'>My Project's</p>
+                <p className='text-center text-[#CD5DF3] md:text-4xl text-3xl font-bold md:-mt-20 -mt-9 border-b-4 pb-3 border-[#CD5DF3] font-serif'>My Project's</p>
             </div>
             <div className=" text-white grid lg:grid-cols-2 grid-cols-1 px-8 gap-10 mt-10 ">
                 <div className=" rounded-lg space-y-5 py-4 bg-[#454242] shadow-md shadow-[#201f1f]">
