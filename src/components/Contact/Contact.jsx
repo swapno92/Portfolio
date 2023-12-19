@@ -27,7 +27,7 @@ const Contact = () => {
 
                     <h2 className='text-xl font-semibold text-[#CD5DF3] mt-8'>FOLLOW ME :</h2>
                     <div className='flex space-x-5 md:mt-4 mt-2 mb-8 md:mb-0'>
-                        <a href="https://www.facebook.com/profile.php?id=100077997187614">
+                        <a href="https://www.facebook.com/swapno923">
                             <FaFacebook className='w-6 h-6 text-gray-200 hover:text-[#CD5DF3] hover:w-7 hover:h-7 duration-200'></FaFacebook>
                         </a>
                         <a href="https://github.com/swapno92">

@@ -61,7 +61,7 @@ const Navbar = () => {
                 </nav>
             </ul>
             <div className='flex md:justify-center md:space-x-5 space-x-3 md:mt-10 mt-3'>
-                <a href="https://www.facebook.com/profile.php?id=100077997187614">
+                <a href="https://www.facebook.com/swapno923">
                     <FaFacebook className='w-6 h-6 text-rose-100 hover:text-[#CD5DF3] hover:w-7 hover:h-7 duration-200'></FaFacebook>
                 </a>
                 <a href="https://github.com/swapno92">
