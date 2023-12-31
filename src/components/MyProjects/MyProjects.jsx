@@ -53,7 +53,7 @@ const MyProjects = () => {
                         </div>
                     </div>
                     <div className='w-[80%] mx-auto '>
-                        <p className="text-gray-200">Automatic brand best website is created with products of different brands. There is an authentication system, there is also the facility to add available products. If the user has login, the product details can be updated and added to cart. Moreover, the website has the facility of using dark theme</p>
+                        <p className="text-gray-200">Automotive brand best website is created with products of different brands. There is an authentication system, there is also the facility to add available products. If the user has login, the product details can be updated and added to cart. Moreover, the website has the facility of using dark theme</p>
                     </div>
                 </div>
                 <div className=" rounded-lg space-y-5 py-4 bg-[#454242] shadow-md shadow-[#201f1f]">
