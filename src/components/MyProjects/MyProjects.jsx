@@ -49,7 +49,7 @@ const MyProjects = () => {
                         <h1 className='text-2xl text-[#CD5DF3] font-bold'>Automotive Brand Based</h1>
                         <div className='flex gap-3'>
                             <a target="blank" href="https://github.com/swapno92/Automotive-Brand-Based" ><FaGithub className='text-3xl  hover:text-[#77d7f2]  border-[#d23434] rounded-full '></FaGithub></a>
-                            <a href="https://assignment-ten-f5536.web.app/" target='blank'><TbWorldCode className='text-3xl  hover:text-[#77d7f2]  border-[#d23434] rounded-full '></TbWorldCode></a>
+                            <a href="https://659178d49d7cd11a248d52d2--delightful-sunburst-0de72c.netlify.app/" target='blank'><TbWorldCode className='text-3xl  hover:text-[#77d7f2]  border-[#d23434] rounded-full '></TbWorldCode></a>
                         </div>
                     </div>
                     <div className='w-[80%] mx-auto '>

@@ -39,7 +39,7 @@ const Navbar = () => {
                         </span>
                     </button>
                 </div>
-                <nav className='md:text-center mx-auto space-y-5 mt-6'>
+                <nav className='md:text-center mx-auto space-y-5 mt-4'>
                     <li>
                         <Link to="home" smooth={true} offset={0} duration={400} className='text-white text-lg hover:bg-[#6fc9db] hover:p-1 hover:text-black hover:font-semibold hover:rounded hover:text-bold duration-500 cursor-pointer hover:text-xl'>Home</Link>
                     </li>
@@ -60,17 +60,17 @@ const Navbar = () => {
                     </li>
                 </nav>
             </ul>
-            <div className='flex md:justify-center md:space-x-5 space-x-3 md:mt-10 mt-3'>
+            <div className=' flex md:justify-center md:space-x-5 space-x-3 mt-3'>
                 <a href="https://www.facebook.com/swapno923">
                     <FaFacebook className='w-6 h-6 text-rose-100 hover:text-[#CD5DF3] hover:w-7 hover:h-7 duration-200'></FaFacebook>
                 </a>
                 <a href="https://github.com/swapno92">
                     <FaGithub className='w-6 h-6 text-rose-100 hover:text-[#CD5DF3] hover:w-7 hover:h-7 duration-200'></FaGithub>
                 </a>
-                <a href="https://linkedin.com/in/swapno-dey-9724082a4">
+                <a href="https://www.linkedin.com/in/swapno-dey-7135572a5/">
                     <FaLinkedin className='w-6 h-6 text-rose-100 hover:text-[#CD5DF3] hover:w-7 hover:h-7 duration-200'></FaLinkedin>
                 </a>
-                <a href="https://twitter.com/Swapno92">
+                <a href="https://twitter.com/Swapno23">
                     <FaTwitter className='w-6 h-6 text-rose-100 hover:text-[#CD5DF3] hover:w-7 hover:h-7 duration-200'></FaTwitter>
                 </a>
             </div>

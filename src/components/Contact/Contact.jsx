@@ -21,7 +21,7 @@ const Contact = () => {
                     </div>
                     <div className='mt-5 space-y-3'>
                         <p className='flex items-center font-semibold gap-3'><FaPhoneAlt className='w-5 h-5 text-[#CD5DF3]'></FaPhoneAlt> +8801859-409923</p>
-                        <p className='flex items-center font-semibold gap-3'><FaRegEnvelope className='w-5 h-5 text-[#CD5DF3]'></FaRegEnvelope>swapnoprograming92@gmail.com</p>
+                        <p className='flex items-center font-semibold gap-3'><FaRegEnvelope className='w-5 h-5 text-[#CD5DF3]'></FaRegEnvelope>swapnodey23@gmail.com</p>
                         <a href='https://wa.me/qr/HJICWKH5N7OPF1' className='flex items-center font-semibold gap-3'><FaWhatsapp className='w-5 h-5 text-[#CD5DF3]'></FaWhatsapp> +8801859-409923</a>
                     </div>
 
@@ -33,17 +33,17 @@ const Contact = () => {
                         <a href="https://github.com/swapno92">
                             <FaGithub className='w-6 h-6 text-gray-200 hover:text-[#CD5DF3] hover:w-7 hover:h-7 duration-200'></FaGithub>
                         </a>
-                        <a href="https://linkedin.com/in/swapno-dey-9724082a4">
+                        <a href="https://www.linkedin.com/in/swapno-dey-7135572a5/">
                             <FaLinkedin className='w-6 h-6 text-gray-200 hover:text-[#CD5DF3] hover:w-7 hover:h-7 duration-200'></FaLinkedin>
                         </a>
-                        <a href="https://twitter.com/Swapno92">
+                        <a href="https://twitter.com/Swapno23">
                             <FaTwitter className='w-6 h-6 text-gray-200 hover:text-[#CD5DF3] hover:w-7 hover:h-7 duration-200'></FaTwitter>
                         </a>
                     </div>
                 </div>
                 <div data-aos="zoom-in-left" className='md:w-[65%] border border-cyan-300 p-4  rounded-lg'>
                     <h2 className='text-xl font-semibold text-[#CD5DF3]'>SEND ME A NOTE :</h2>
-                    <form id='myFrom' action="https://formspree.io/f/xeqbynzd"
+                    <form id='myFrom' action="https://formspree.io/f/mvoeprvz"
                         method="POST">
                         <div className='flex space-x-5 md:mt-7 mt-3'>
                             <input className='w-full p-2 rounded-md text-white text-lg bg-[#343A40]' type="text" name="name" id="name" placeholder='Name' required />
