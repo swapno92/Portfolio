@@ -6,13 +6,6 @@ const Footer = ({showContent}) => {
             <div>
                 <p className='font-semibold text-base'>Copyright © {(new Date().getFullYear())}. Swapno Dey All Rights Reserved.</p>
             </div>
-
-            {showContent ? (
-                <p>Content is visible.</p>
-            ) : (
-                <p>Content is hidden.</p>
-            )}
-            sdf
         </footer>
     );
 };
