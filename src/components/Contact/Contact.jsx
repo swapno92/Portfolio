@@ -15,9 +15,8 @@ const Contact = () => {
                 <div data-aos="zoom-in-right" className='md:w-[35%] py-4 px-4 rounded-lg border border-cyan-300'>
                     <h2 className='text-xl font-semibold text-[#CD5DF3]'>ADDRESS :</h2>
                     <div className='mt-5'>
-                        <p className='text-lg font-medium '>Kaisar Mansion, 5th Floor</p>
-                        <p className='text-lg font-medium '>Chawkbazar, Chittagong</p>
-                        <p className='text-lg font-medium '>Bangladesh.</p>
+                        <p className='text-lg font-medium '>Banasree, Rampura </p>
+                        <p className='text-lg font-medium '>Dhaka</p>
                     </div>
                     <div className='mt-5 space-y-3'>
                         <p className='flex items-center font-semibold gap-3'><FaPhoneAlt className='w-5 h-5 text-[#CD5DF3]'></FaPhoneAlt> +8801859-409923</p>

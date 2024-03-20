@@ -29,7 +29,7 @@ const Home = () => {
                     </span>
                     {'>'}
                 </h3>
-                <p className='font-semibold text-center md:mt-6 mt-3 text-white md:text-2xl text-lg '>I live in Chittagong, Bangladesh</p>
+                <p className='font-semibold text-center md:mt-6 mt-3 text-white md:text-2xl text-lg '>I live in Dhaka, Bangladesh</p>
                 <Link to="ContactMe" smooth={true} offset={0} duration={400}>
                     <button className='border-2 btn bg-transparent text-[#CD5DF3] p-2 rounded-lg mt-10 font-semibold border-[#CD5DF3] hover:bg-[#CD5DF3] hover:text-black duration-500 hover:font-semibold transition ease-in-out delay-50 hover:-translate-y-0 hover:scale-110 hover:border-[#CD5DF3] '>Contact Me</button>
                 </Link>

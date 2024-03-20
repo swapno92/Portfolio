@@ -1,5 +1,5 @@
 // import React from 'react';
-import resume_pdf from '../../assets/resume_pdf.pdf'
+import resume_pdf from '../../assets/Swapno_Resume.pdf'
 import './AboutMe.css'
 
 const AboutMe = () => {
